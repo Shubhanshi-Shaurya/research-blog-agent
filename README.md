@@ -1,1 +1,1 @@
-# Research Assistant
+# Research Blog Assistant
